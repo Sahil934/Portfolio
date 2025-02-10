@@ -411,6 +411,12 @@ h3{
     color: var(--color-white);
     margin-bottom: 20px;
 }
+
+.cont1{
+    justify-content: center;
+    align-items: center;
+}
+
 .contact-info>p{
     display: flex;
     align-items: center;
